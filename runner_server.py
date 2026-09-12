@@ -1,4 +1,3 @@
-```python
 import os
 import sys
 import time
@@ -691,4 +690,3 @@ print("Physical GPU 1 used.")
 print("PyTorch VRAM limit: 20 GiB.")
 print("GPU 0 untouched.")
 print("Other processes untouched.")
-```
